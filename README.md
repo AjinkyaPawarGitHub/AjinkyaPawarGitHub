@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajinkya Pawar</h1>
 <h3 align="center">🌍 I am a Mobile Application Developer based in India</h3>
 
-- 📫 How to reach me **ajinkyapawar730@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
