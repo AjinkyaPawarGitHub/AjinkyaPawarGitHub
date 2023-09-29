@@ -18,7 +18,7 @@ Hi! My name is Ajinkya Pawar 😄
   <a href="https://twitter.com/AjinkyaPawar007">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
- <a href="https://instagram.com/ajinkyaa___">
+ <a href="https://instagram.com/ajinkyaa____">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
