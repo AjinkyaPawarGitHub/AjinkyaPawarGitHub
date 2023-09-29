@@ -12,10 +12,10 @@ Hi! My name is Ajinkya Pawar 😄
 ### Socials
 
 <div id="badges">
-  <a href="https://twitter.com/AjinkyaPawar007">
+  <a href="https://www.linkedin.com/in/ajinkya-pawar-frontend/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/ajinkya-pawar-frontend/">
+  <a href="https://twitter.com/AjinkyaPawar007">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
