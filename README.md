@@ -25,7 +25,7 @@ Hi! My name is Ajinkya Pawar 😄
     <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black" alt="Leetcode Badge"/>
   </a>
   <a href="https://leetcode.com/Ajinkyapawarleetcode/">
-    <img src="https://img.shields.io/badge/Github-orange?style=for-the-badge&logo=github&logoColor=black" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=black" alt="Github Badge"/>
   </a>
  
 </div>
