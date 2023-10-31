@@ -15,18 +15,20 @@ Hi! My name is Ajinkya Pawar 😄
   <a href="https://www.linkedin.com/in/ajinkya-pawar-frontend/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://github.com/cuneiform-ajinkya">
+    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  </a>
+ <a href="https://leetcode.com/Ajinkyapawarleetcode/">
+    <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black" alt="Leetcode Badge"/>
+  </a>
   <a href="https://twitter.com/AjinkyaPawar007">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
  <a href="https://instagram.com/ajinkyaa____">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
- <a href="https://leetcode.com/Ajinkyapawarleetcode/">
-    <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black" alt="Leetcode Badge"/>
-  </a>
-  <a href="https://github.com/cuneiform-ajinkya">
-    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-  </a>
+ 
+ 
  
 </div>
 
