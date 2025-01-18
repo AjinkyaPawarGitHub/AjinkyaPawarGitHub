@@ -11,6 +11,31 @@ Hi! My name is Ajinkya Pawar 😄
 [![My Skills](https://skillicons.dev/icons?i=css,firebase)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=nodejs,redux)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=aws,cpp)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=dart,eclipse)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=express,flutter	)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=gcp,githubactions	)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=gradle,java	)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=jenkins,jest	)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=kotlin,linux	)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=mongodb,nginx	)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=npm,postgres	)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=postman,redis	)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=sqlite,swift	)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=ubuntu,vscode	)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=windows,yarn	)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
 <br/>
 
 ### Socials
