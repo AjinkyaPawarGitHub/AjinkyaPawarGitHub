@@ -24,9 +24,8 @@ Hi! My name is Ajinkya Pawar 😄
 [![My Skills](https://skillicons.dev/icons?i=sqlite,swift	)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=ubuntu,vscode	)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=windows,yarn	)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=react)](https://reactnative.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="48" height="48"/>
+
 
 
 
